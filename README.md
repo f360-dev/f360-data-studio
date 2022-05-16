@@ -1,1 +1,1 @@
-# Gestão a vista f360 - telemetria
+# Indicadores f360 - telemetria
